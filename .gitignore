@@ -1,0 +1,48 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+
+# Architecture-specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+# Binary
+proj-to-prompt
+proj-to-prompt-linux
+proj-to-prompt.exe
+proj-to-prompt-macos
+
+# Dependency directories
+vendor/
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# macOS generated files
+.DS_Store
+
+# Go modules cache
+go.sum
+go.mod
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+
